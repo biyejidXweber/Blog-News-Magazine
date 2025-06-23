@@ -5,7 +5,7 @@ A modern, clean, and responsive web layout built for blogging, news, and magazin
 ## 📸 Screenshots
 
 ### 🏠 Homepage
-![Homepage Screenshot](./screenshots/homepage.png)
+![Homepage Screenshot](./Blog_News_ Magazine.png)
 
 🔗 **Live Demo:**  
 [Visit Site](https://biyejidxweber.github.io/Blog-News-Magazine/)
